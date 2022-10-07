@@ -1,0 +1,7 @@
+mavros/test_mavros
+/home/priyank/mavros/devel/.private/test_mavros/cmake.lock /home/priyank/mavros/devel/./cmake.lock
+/home/priyank/mavros/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake /home/priyank/mavros/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+/home/priyank/mavros/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake /home/priyank/mavros/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+/home/priyank/mavros/devel/.private/test_mavros/lib/libmavros_sitl_test.so /home/priyank/mavros/devel/lib/libmavros_sitl_test.so
+/home/priyank/mavros/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc /home/priyank/mavros/devel/lib/pkgconfig/test_mavros.pc
+/home/priyank/mavros/devel/.private/test_mavros/lib/test_mavros/sitl_test_node /home/priyank/mavros/devel/lib/test_mavros/sitl_test_node

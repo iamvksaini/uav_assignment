@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/priyank/mavros/devel/.private/libmavconn/cmake.lock /home/priyank/mavros/devel/./cmake.lock
+/home/priyank/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/priyank/mavros/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/priyank/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/priyank/mavros/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/priyank/mavros/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/priyank/mavros/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/priyank/mavros/devel/.private/libmavconn/lib/libmavconn.so /home/priyank/mavros/devel/lib/libmavconn.so
+/home/priyank/mavros/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/priyank/mavros/devel/lib/pkgconfig/libmavconn.pc

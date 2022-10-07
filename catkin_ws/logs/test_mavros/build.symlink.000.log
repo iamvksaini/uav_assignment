@@ -1,0 +1,5 @@
+Symlinking /home/priyank/mavros/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Symlinking /home/priyank/mavros/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+Symlinking /home/priyank/mavros/devel/lib/libmavros_sitl_test.so
+Symlinking /home/priyank/mavros/devel/lib/pkgconfig/test_mavros.pc
+Symlinking /home/priyank/mavros/devel/lib/test_mavros/sitl_test_node

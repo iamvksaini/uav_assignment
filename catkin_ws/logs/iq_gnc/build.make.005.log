@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target eight_shape[0m
+[ 25%] Built target square
+[ 50%] Built target gnc_example
+[ 62%] [32mBuilding CXX object CMakeFiles/eight_shape.dir/src/eight_shape.cpp.o[0m
+[ 87%] Built target set_wp
+[100%] [32m[1mLinking CXX executable /home/priyank/mavros/devel/.private/iq_gnc/lib/iq_gnc/eight_shape[0m
+[100%] Built target eight_shape

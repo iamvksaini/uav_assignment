@@ -1,0 +1,6 @@
+devel_space: /home/priyank/mavros/devel
+install: false
+install_space: /home/priyank/mavros/install
+profile: default
+source_space: /home/priyank/mavros/src
+workspace: /home/priyank/mavros

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/priyank/mavros/devel/.private/iq_gnc/setup.sh
